@@ -2,5 +2,5 @@
 
 Hello worldlings
 
-My name is Rohan. I program in java and am looking to learn more languages.
+My name is Rohan. I program in java and am looking to learn more languages and become a coding genius.
 
